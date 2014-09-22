@@ -4,5 +4,5 @@
 
 Ceci est un script temporaire.
 """
-
-print("abcdefghijklnmopqrstuvwxyz")
+import sys
+print(sys.argv[0])

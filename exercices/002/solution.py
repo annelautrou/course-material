@@ -5,4 +5,4 @@
 Ceci est un script temporaire.
 """
 
-print("abcdefghijklnmopqrstuvwxyz")
+print("42")
