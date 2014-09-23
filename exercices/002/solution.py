@@ -5,4 +5,5 @@
 Ceci est un script temporaire.
 """
 
-print('zyxwvUtsrqpOnmlkjIhgfEdcbA')
+a = 'zyxwvUtsrqpOnmlkjIhgfEdcbA'
+print(a)
